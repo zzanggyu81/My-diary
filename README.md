@@ -15,7 +15,11 @@
 
 폰의 크롬에서 `파일`을 직접 열면 기기에 따라 저장이 되지 않을 수 있습니다.
 주소(`https://…`)로 열어야 홈 화면 추가와 오프라인 저장이 제대로 동작합니다.
-GitHub Pages는 무료이고 5분이면 됩니다. (계정과 결제는 직접 하셔야 합니다.)
+
+**지금 주소: <https://zzanggyu81.github.io/My-diary/>**
+폰 크롬으로 열고 오른쪽 위 ⋮ → **홈 화면에 추가** 하면 앱처럼 열립니다.
+
+다른 곳에 새로 올리고 싶다면 아래 순서대로 하면 됩니다. (계정과 결제는 직접 하셔야 합니다.)
 
 1. <https://github.com> 에 로그인 → 오른쪽 위 **+ → New repository**
 2. Repository name 에 `diary` → **Public** → **Create repository**
